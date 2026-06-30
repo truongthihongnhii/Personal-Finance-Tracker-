@@ -1,0 +1,14 @@
+c:\Users\truon\Personal Finance Tracker\bin\Debug\net8.0\PersonalFinanceTracker.exe
+c:\Users\truon\Personal Finance Tracker\bin\Debug\net8.0\PersonalFinanceTracker.deps.json
+c:\Users\truon\Personal Finance Tracker\bin\Debug\net8.0\PersonalFinanceTracker.runtimeconfig.json
+c:\Users\truon\Personal Finance Tracker\bin\Debug\net8.0\PersonalFinanceTracker.dll
+c:\Users\truon\Personal Finance Tracker\bin\Debug\net8.0\PersonalFinanceTracker.pdb
+c:\Users\truon\Personal Finance Tracker\obj\Debug\net8.0\PersonalFinanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\truon\Personal Finance Tracker\obj\Debug\net8.0\PersonalFinanceTracker.AssemblyInfoInputs.cache
+c:\Users\truon\Personal Finance Tracker\obj\Debug\net8.0\PersonalFinanceTracker.AssemblyInfo.cs
+c:\Users\truon\Personal Finance Tracker\obj\Debug\net8.0\PersonalFinanceTracker.csproj.CoreCompileInputs.cache
+c:\Users\truon\Personal Finance Tracker\obj\Debug\net8.0\PersonalFinanceTracker.dll
+c:\Users\truon\Personal Finance Tracker\obj\Debug\net8.0\refint\PersonalFinanceTracker.dll
+c:\Users\truon\Personal Finance Tracker\obj\Debug\net8.0\PersonalFinanceTracker.pdb
+c:\Users\truon\Personal Finance Tracker\obj\Debug\net8.0\PersonalFinanceTracker.genruntimeconfig.cache
+c:\Users\truon\Personal Finance Tracker\obj\Debug\net8.0\ref\PersonalFinanceTracker.dll

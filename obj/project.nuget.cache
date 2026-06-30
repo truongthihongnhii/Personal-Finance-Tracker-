@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0e68ncMQmE=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\truon\\Personal Finance Tracker\\PersonalFinanceTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\truon\\AppData\\Local\\Temp\\cursor-sandbox-cache\\0290173e72c2e109800f4daad2a7f3f2\\nuget\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\truon\\AppData\\Local\\Temp\\cursor-sandbox-cache\\0290173e72c2e109800f4daad2a7f3f2\\nuget\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\truon\\AppData\\Local\\Temp\\cursor-sandbox-cache\\0290173e72c2e109800f4daad2a7f3f2\\nuget\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\truon\\AppData\\Local\\Temp\\cursor-sandbox-cache\\0290173e72c2e109800f4daad2a7f3f2\\nuget\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
