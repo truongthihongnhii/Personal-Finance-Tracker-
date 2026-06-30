@@ -5,6 +5,7 @@ internal static class Program
     private static void Main()
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
+        Console.WriteLine("--- Đang tính toán thuế thu nhập tạm tính 10% ---"); 
         Console.WriteLine("=== QUẢN LÝ CHI TIÊU CÁ NHÂN ===\n");
 
         var account = CreateAccount();
